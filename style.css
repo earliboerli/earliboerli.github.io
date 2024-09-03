@@ -18,18 +18,19 @@ color: #D1240D;
 }
 
 .ml-form-embedWrapper embed form {
-        margin-top: -20px; 
-        margin-left: -20px;
+        width: 100% !important;  /* Use !important to override other styles */
+        box-sizing: border-box !important;
 }
 
 .ml-form-horizontalRow {
-        width: 330px;
+        width: 100% !important;  /* Use !important to override other styles */
+        box-sizing: border-box !important;
   
 }
 
 .my-embedd input[type="email"] {
-    width: 100%; /* Makes the input field as wide as the container div */
-    box-sizing: border-box; /* Ensures padding is included in the width */
+    width: 100% !important;  /* Use !important to override other styles */
+    box-sizing: border-box !important;
 }
 
 
