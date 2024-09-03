@@ -18,8 +18,9 @@ color: #D1240D;
 }
 
 .ml-embedded {
-        margin-top: -20px; /* Adjust this value as needed */
+        margin-top: -20px; 
         margin-left: -20px;
+        width: 330px;
     }
 
 img{max-width:100%;}
