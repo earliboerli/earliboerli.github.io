@@ -17,10 +17,12 @@ h1 {
 color: #D1240D;   
 }
 
-.ml-embedded {
+.my-embedd {
         margin-top: -20px; 
         margin-left: -20px;
-        width: 330px;
+        width: 330px;      
+        padding-top: 0px;
+        padding-top: 0px;
     }
 
 img{max-width:100%;}
