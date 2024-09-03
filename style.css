@@ -20,7 +20,8 @@ color: #D1240D;
 .my-embedd {
         margin-top: -20px; 
         margin-left: -20px;
-        width: 330px;      
+        width: 330px; 
+        box-sizing: border-box; /* Ensures padding doesn't increase the width */
         padding-top: 0px;
         padding-top: 0px;
     }
